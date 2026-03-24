@@ -28,14 +28,3 @@ cd Azure_AI_containers_demos_videos
 
 Then open any `.mp4` file with your preferred media player.
 
-## Notes
-
-- Filenames are currently in French (e.g., “Démo …”, “Traduction …”, “Recherche visuelle”).
-- If you want, I can update this README to include:
-  - a short summary for each video (what’s shown + prerequisites),
-  - links/timecodes,
-  - and a consistent naming scheme.
-
-## License
-
-No license file is currently included. If you plan to share/reuse these videos, consider adding a `LICENSE` (and any attribution notes or restrictions).
